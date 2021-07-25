@@ -6,7 +6,7 @@ This is the filter that we will be implementing for an edge detection.
 ![image](https://www.projectrhea.org/rhea/images/thumb/9/91/XY_Kernels.png/1200px-XY_Kernels.png)
 ## How to run:
 1. Go to cmd
-2. Compile the code : cd <dir> Assignment1.c
+2. Compile the code 
 3. Output will give 3 output pictures including:
   - The magnitude image
   - Output with High Threshold
